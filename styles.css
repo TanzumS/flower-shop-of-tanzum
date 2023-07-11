@@ -156,7 +156,7 @@ width: 594px;
     margin: 90px 240px;
 }
 .ti{
-    list-style: ;
+    list-style-type:none ;
 }
 .text2{
     color: #272727;
