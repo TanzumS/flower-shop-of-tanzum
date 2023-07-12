@@ -148,7 +148,7 @@ width: 594px;
     justify-content:space-around;
 }
 .emailcontainer{
-    background-image: url('Flower Asset/Rectangle 9.png');
+    background-image: url('./Flower-Asset/Rectangle9.png');
     background-repeat:no-repeat;
     border-radius: 8px;
     width: 1440px;
