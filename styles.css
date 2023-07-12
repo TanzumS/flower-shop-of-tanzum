@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1920px; 
+    width: 100%; 
     background: rgba(229, 84, 115, 0.10);
 }
 .frontpagetext{
